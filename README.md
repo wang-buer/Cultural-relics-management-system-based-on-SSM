@@ -1,10 +1,4 @@
-# 基于SSM的文物管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ： **文物**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的文物管理系统1
 
 ## 1、项目介绍
 
@@ -35,51 +29,48 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092052615.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208092052615.jpg)
 
-![管理员登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092052612.jpg)
+![管理员登录](https://www.codeshop.fun/Typora-Images/202208092052612.jpg)
 
 ### 4.2 前端模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092052651.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208092052651.jpg)
 
-![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053006.jpeg)
+![](https://www.codeshop.fun/Typora-Images/202208092053006.jpeg)
 
-![文物咨询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053129.jpg)
+![文物咨询](https://www.codeshop.fun/Typora-Images/202208092053129.jpg)
 
 ### 4.3 用户模块
 
-![用户-收藏管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053101.jpg)
+![用户-收藏管理](https://www.codeshop.fun/Typora-Images/202208092053101.jpg)
 
-![留言反馈](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053841.jpg)
+![留言反馈](https://www.codeshop.fun/Typora-Images/202208092053841.jpg)
 
 ### 4.4管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053748.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208092053748.jpg)
 
-![管理员-分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053918.jpg)
+![管理员-分类管理](https://www.codeshop.fun/Typora-Images/202208092053918.jpg)
 
-![管理员-文物管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053412.jpg)
+![管理员-文物管理](https://www.codeshop.fun/Typora-Images/202208092053412.jpg)
 
-![管理员-修改文物](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053944.jpg)
+![管理员-修改文物](https://www.codeshop.fun/Typora-Images/202208092053944.jpg)
 
-![管理员-文物外借](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053161.jpg)
+![管理员-文物外借](https://www.codeshop.fun/Typora-Images/202208092053161.jpg)
 
-![管理员-文物外借管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053820.jpg)
+![管理员-文物外借管理](https://www.codeshop.fun/Typora-Images/202208092053820.jpg)
 
-![管理员-文物维修管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092054985.jpg)
+![管理员-文物维修管理](https://www.codeshop.fun/Typora-Images/202208092054985.jpg)
 
-![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092054533.jpg)
+![管理员-留言管理](https://www.codeshop.fun/Typora-Images/202208092054533.jpg)
 
 ### 4.4 文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092053195.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202208092053195.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**文物** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**文物**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
